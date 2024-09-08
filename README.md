@@ -1,5 +1,7 @@
 # 🛡️ SOC Automation Project
 
+- <a href="https://github.com/rafa0c">Home Portfolio</a>
+
 ## 🎯 Objective
 The objective of this project was to automate and streamline Security Operations Center (SOC) workflows, reducing manual effort in threat detection, incident response, and log management. The goal was to improve response times, reduce false positives, and increase overall SOC efficiency.
 
