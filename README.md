@@ -80,3 +80,5 @@ The objective of this project was to automate and streamline Security Operations
 - **70% reduction in false positive alerts**, allowing analysts to focus on real threats.
 - **50% improvement in incident response times** due to automated escalation.
 - Enhanced SOC efficiency and improved collaboration through automated workflows.
+
+  - <a href="https://github.com/rafa0c/Detection-lab">Top of Page</a>
