@@ -81,6 +81,35 @@ The objective of this project was to automate and streamline Security Operations
 - **50% improvement in incident response times** due to automated escalation.
 - Enhanced SOC efficiency and improved collaboration through automated workflows.
 
+  <p align="center">
+Ref 1: Network Diagram<br/>
+<img src="https://i.imgur.com/RAuqxAS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Ref 2: Virtual box  <br/>
+<img src="https://i.imgur.com/JBuHLhP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Ref 3: Add users in AD: <br/>
+<img src="https://i.imgur.com/Q4Z5WU3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Ref 4: User Name File  <br/>
+<img src="https://i.imgur.com/5k8YM8q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Ref 5: PowerShell script for new users   <br/>
+<img src="https://i.imgur.com/kkaRJED.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Ref 6: create the new users   <br/>
+<img src="https://i.imgur.com/gYMjKl3.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Ref 7: show the new user in the GUI  <br/>
+<img src="https://i.imgur.com/1k6Fpw8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
   - <a href="https://github.com/rafa0c/SOC-Automation-Lab">Top of Page</a>
 
  
