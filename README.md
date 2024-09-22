@@ -82,8 +82,8 @@ The objective of this project was to automate and streamline Security Operations
 - Enhanced SOC efficiency and improved collaboration through automated workflows.
 
   <p align="center">
-Ref 1: Network Diagram<br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Ref 1: screenshot <br/>
+<img src="" height="80%" width="80%" alt=""/>
 <br />
 <br />
 
