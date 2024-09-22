@@ -83,9 +83,13 @@ The objective of this project was to automate and streamline Security Operations
 
   <p align="center">
 Ref 1: Network Diagram<br/>
-<img src="https://i.imgur.com/RAuqxAS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+</p>
+
+<!--
 Ref 2: Virtual box  <br/>
 <img src="https://i.imgur.com/JBuHLhP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -108,7 +112,9 @@ Ref 6: create the new users   <br/>
 <br />
 Ref 7: show the new user in the GUI  <br/>
 <img src="https://i.imgur.com/1k6Fpw8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+-->
+
 
   - <a href="https://github.com/rafa0c/SOC-Automation-Lab">Top of Page</a>
 
