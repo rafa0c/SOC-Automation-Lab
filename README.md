@@ -83,10 +83,9 @@ The objective of this project was to automate and streamline Security Operations
 
   <p align="center">
 Ref 1: screenshot <br/>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="" height="80%" width="80%" alt="screenshot1"/>
 <br />
 <br />
-
 </p>
 
 <!--
