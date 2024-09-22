@@ -82,8 +82,8 @@ The objective of this project was to automate and streamline Security Operations
 - Enhanced SOC efficiency and improved collaboration through automated workflows.
 
   <p align="center">
-Ref 1: screenshot <br/>
-<img srrc="" height="80%" width="80%" alt="screenshot1"/>
+Ref 1: _screenshot_ <br/>
+<img srrc="" height="80%" width="80%" alt=""/>
 <br />
 <br />
 </p>
